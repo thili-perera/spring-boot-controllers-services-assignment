@@ -3,7 +3,7 @@
 This project demonstrates building simple REST APIs using Spring Boot with controllers, services, and dependency injection
 
 ## Setup
-1. Clone the repo(Branch - THILINI).
+1. Clone the repo
 2. Open in your IDE and run
 
 ## Endpoints
