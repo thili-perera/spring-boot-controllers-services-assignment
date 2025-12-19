@@ -1,0 +1,7 @@
+#spring.application.name=Depenci
+server:
+  port:8081
+
+spring:
+  application:
+    name: Depenci
